@@ -48,6 +48,7 @@
 ![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/hoppscotch-31C48D.svg?style=for-the-badge&logo=hoppscotch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
